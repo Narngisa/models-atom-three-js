@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="bg-white h-screen">
         <div className="text-center text-black font-mono font-semibold text-4xl p-8">
-          <h1>Models Atom</h1>
+          <h1>Models Atom Three.JS</h1>
         </div>
         <div className='text-center text-black font-mono font-semibold text-2xl p-8'>
           <div className='flex flex-col'>
